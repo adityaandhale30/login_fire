@@ -29,3 +29,7 @@ migrate_working_dir/
 .flutter-plugins
 .flutter-plugins-dependencies
 build/
+example/pubspec.lock
+example/windows/flutter/generated_plugin_registrant.cc
+example/windows/flutter/generated_plugins.cmake
+example/macos/Flutter/GeneratedPluginRegistrant.swift
