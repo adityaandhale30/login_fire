@@ -11,8 +11,8 @@ class CustomTextField extends StatelessWidget {
     required this.hintText,
     this.isPassword = false,
     this.inputTextStyle,
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {

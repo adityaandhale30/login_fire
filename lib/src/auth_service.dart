@@ -14,7 +14,7 @@ class AuthService {
       );
       return userCredential.user;
     } catch (e) {
-      print(e);
+      // print(e);
       return null;
     }
   }
@@ -36,7 +36,7 @@ class AuthService {
       );
       return userCredential.user;
     } catch (e) {
-      print(e);
+      // print(e);
       return null;
     }
   }

@@ -9,8 +9,8 @@ class CustomButton extends StatelessWidget {
     required this.text,
     required this.onPressed,
     this.buttonStyle,
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {

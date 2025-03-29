@@ -5,7 +5,7 @@ import '../utils/theme_util.dart';
 class LoginPage extends StatelessWidget {
   final LoginFireConfig config;
 
-  const LoginPage({Key? key, required this.config}) : super(key: key);
+  const LoginPage({super.key, required this.config});
 
   @override
   Widget build(BuildContext context) {

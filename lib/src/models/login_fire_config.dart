@@ -1,8 +1,4 @@
 import 'package:flutter/material.dart';
-
-import 'package:flutter/material.dart';
-import 'package:equatable/equatable.dart';
-import 'package:flutter/material.dart';
 import 'package:equatable/equatable.dart';
 
 /// Configuration for the UI appearance of the login screen
