@@ -1,5 +1,5 @@
 name: login_fire
-description: "A new Flutter package project."
+description: "A customizable Flutter login UI with Firebase authentication using GetX."
 version: 0.0.1
 homepage: "https://github.com/adityaandhale30/login_fire"
 #author : "Aditya Anil andhale adityaandhale30@gmail.com"
